@@ -2,10 +2,12 @@
 Create and print a 2D Times Tables with variables Rows, Cols with Exponent
 
 * For instance you could create a 3x4 times table with exponent 1 like so:
- ![4x3e1](4x3e1.png)
+
+     ![4x3e1](4x3e1.png)
 
 * A 5x6 times table with exponent 3 would look like this:
-![5x6e3](5x6e3.png)
+
+    ![5x6e3](5x6e3.png)
 
 ## Tasks
 
@@ -21,7 +23,7 @@ Create and print a 2D Times Tables with variables Rows, Cols with Exponent
 1. Test with various values of rows, cols, and exponent.
 
 ## Grading Rubric
-1. Grades will be assigned for 2 categories equally weighted
-    1. Following the instructions aboce STRICTLY!!
-    1. Correct numerical results for various rows, cols, exponent as shown above
-    1. Results should be properly formatted.
+Grades will be assigned for 2 categories equally weighted:
+1. Following the instructions above STRICTLY!!
+1. Correct numerical results for various rows, cols, exponent as shown above
+1. Code should be written following proper coding standards and best practices, Results should be properly formatted.
