@@ -1,4 +1,4 @@
-# Project TTEXP
+# Project Times Tables with Exponent
 Create and print a 2D Times Tables with variables Rows, Cols with Exponent
 
 * For instance you could create a 3x4 times table with exponent 1 like so:
